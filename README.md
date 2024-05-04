@@ -2,7 +2,7 @@
 
 Me chamo Kaic, sou um jovem estudante de Ciência da Computação.\
 \
-Apaixonado pela tecnologia, sigo meu rumo em busca de me tornar um desenvolvedor!\
+Apaixonado pela tecnologia!\
 \
 Meu objetivo final é aprender de tudo um pouco, mas meu interesse está no backend, mais especificamente, na linguagem Java ☕.\
 \
