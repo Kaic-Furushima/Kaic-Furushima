@@ -1,4 +1,4 @@
-# **<p style="text-align: center;">👋 Olá Mundo!</p>**
+# 👋 **Olá Mundo!**
 
 Me chamo Kaic, sou um jovem estudante de Ciência da Computação.\
 \
