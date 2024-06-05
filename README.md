@@ -4,7 +4,7 @@ Me chamo Kaic, sou um jovem estudante de Ciência da Computação.\
 \
 Apaixonado pela tecnologia!\
 \
-Meu objetivo é aprender de tudo um pouco, mas meu interesse está no backend, mais especificamente, na linguagem Java ☕.\
+Meu objetivo é aprender de tudo um pouco, mas, meu interesse está no backend, mais especificamente, na linguagem Java ☕.\
 \
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaic-furushima/)
 
